@@ -1,0 +1,252 @@
+D:\Class Evening\Project\SMS\BLL\bin\Debug\BLL.dll
+D:\Class Evening\Project\SMS\BLL\bin\Debug\BLL.pdb
+D:\Class Evening\Project\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Class Evening\Project\SMS\BLL\obj\Debug\BLL.dll
+D:\Class Evening\Project\SMS\BLL\obj\Debug\BLL.pdb
+D:\Class Evening\Project\SMS\BLL\bin\Debug\DAL.dll
+D:\Class Evening\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Evening\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Evening\Project\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Evening\Project\SMS\BLL\bin\Debug\DAL.pdb
+D:\Class Evening\Project\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Class Evening\Project\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 32\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 32\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 32\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 32\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 32\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 32\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 32\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 32\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 32\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 32\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 32\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 32\BLL\obj\Debug\BLL.pdb
+G:\BITM DOT NET\class 33\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\BITM DOT NET\class 33\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\BITM DOT NET\class 33\BLL\obj\Debug\BLL.dll
+G:\BITM DOT NET\class 33\BLL\obj\Debug\BLL.pdb
+G:\BITM DOT NET\class 33\BLL\bin\Debug\BLL.dll
+G:\BITM DOT NET\class 33\BLL\bin\Debug\BLL.pdb
+G:\BITM DOT NET\class 33\BLL\bin\Debug\DAL.dll
+G:\BITM DOT NET\class 33\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\BITM DOT NET\class 33\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\BITM DOT NET\class 33\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+G:\BITM DOT NET\class 33\BLL\bin\Debug\DAL.pdb
+G:\BITM DOT NET\class 33\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 33\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 33\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 33\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 33\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 33\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 33\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 33\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 33\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 33\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 33\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 33\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 33\BLL\obj\Debug\BLL.pdb
+E:\Md. Akib Hasan\class 33\BLL\bin\Debug\BLL.dll
+E:\Md. Akib Hasan\class 33\BLL\bin\Debug\BLL.pdb
+E:\Md. Akib Hasan\class 33\BLL\bin\Debug\DAL.dll
+E:\Md. Akib Hasan\class 33\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Md. Akib Hasan\class 33\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Md. Akib Hasan\class 33\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Md. Akib Hasan\class 33\BLL\bin\Debug\DAL.pdb
+E:\Md. Akib Hasan\class 33\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Md. Akib Hasan\class 33\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Md. Akib Hasan\class 33\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Md. Akib Hasan\class 33\BLL\obj\Debug\BLL.dll
+E:\Md. Akib Hasan\class 33\BLL\obj\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 34\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 34\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 34\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 34\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 34\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 34\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 34\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 34\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 34\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 34\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 34\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 34\BLL\obj\Debug\BLL.pdb
+E:\Md. Akib Hasan\class 34\BLL\bin\Debug\BLL.dll
+E:\Md. Akib Hasan\class 34\BLL\bin\Debug\BLL.pdb
+E:\Md. Akib Hasan\class 34\BLL\bin\Debug\DAL.dll
+E:\Md. Akib Hasan\class 34\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Md. Akib Hasan\class 34\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Md. Akib Hasan\class 34\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Md. Akib Hasan\class 34\BLL\bin\Debug\DAL.pdb
+E:\Md. Akib Hasan\class 34\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Md. Akib Hasan\class 34\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Md. Akib Hasan\class 34\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Md. Akib Hasan\class 34\BLL\obj\Debug\BLL.dll
+E:\Md. Akib Hasan\class 34\BLL\obj\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 35\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 35\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 35\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 35\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 35\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 35\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 35\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 35\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 35\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 35\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 35\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 35\BLL\obj\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 36\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 36\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 36\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 36\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 36\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 36\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 36\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 36\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 36\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 36\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 36\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 36\BLL\obj\Debug\BLL.pdb
+E:\MdAkibHasan_298647\BLL\bin\Debug\BLL.dll
+E:\MdAkibHasan_298647\BLL\bin\Debug\BLL.pdb
+E:\MdAkibHasan_298647\BLL\bin\Debug\DAL.dll
+E:\MdAkibHasan_298647\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\MdAkibHasan_298647\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\MdAkibHasan_298647\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\MdAkibHasan_298647\BLL\bin\Debug\DAL.pdb
+E:\MdAkibHasan_298647\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\MdAkibHasan_298647\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\MdAkibHasan_298647\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\MdAkibHasan_298647\BLL\obj\Debug\BLL.dll
+E:\MdAkibHasan_298647\BLL\obj\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\exam 02\MdAkibHasan_298647\BLL\obj\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 45\3 tier\BLL\obj\Debug\BLL.pdb
+E:\Md. Akib Hasan\class 45\3 tier\BLL\bin\Debug\BLL.dll
+E:\Md. Akib Hasan\class 45\3 tier\BLL\bin\Debug\BLL.pdb
+E:\Md. Akib Hasan\class 45\3 tier\BLL\bin\Debug\DAL.dll
+E:\Md. Akib Hasan\class 45\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Md. Akib Hasan\class 45\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Md. Akib Hasan\class 45\3 tier\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Md. Akib Hasan\class 45\3 tier\BLL\bin\Debug\DAL.pdb
+E:\Md. Akib Hasan\class 45\3 tier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Md. Akib Hasan\class 45\3 tier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Md. Akib Hasan\class 45\3 tier\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Md. Akib Hasan\class 45\3 tier\BLL\obj\Debug\BLL.dll
+E:\Md. Akib Hasan\class 45\3 tier\BLL\obj\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 46\3 tier\BLL\obj\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 47\3 tier\BLL\obj\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 47.1 4.8.22\3 tier\BLL\obj\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 49\3 tier\BLL\obj\Debug\BLL.pdb
+E:\Md. Akib Hasan\class 49\3 tier\BLL\bin\Debug\BLL.dll
+E:\Md. Akib Hasan\class 49\3 tier\BLL\bin\Debug\BLL.pdb
+E:\Md. Akib Hasan\class 49\3 tier\BLL\bin\Debug\DAL.dll
+E:\Md. Akib Hasan\class 49\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Md. Akib Hasan\class 49\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Md. Akib Hasan\class 49\3 tier\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Md. Akib Hasan\class 49\3 tier\BLL\bin\Debug\DAL.pdb
+E:\Md. Akib Hasan\class 49\3 tier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Md. Akib Hasan\class 49\3 tier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Md. Akib Hasan\class 49\3 tier\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Md. Akib Hasan\class 49\3 tier\BLL\obj\Debug\BLL.dll
+E:\Md. Akib Hasan\class 49\3 tier\BLL\obj\Debug\BLL.pdb
+E:\Md. Akib Hasan\class 53\3 tier\BLL\bin\Debug\BLL.dll
+E:\Md. Akib Hasan\class 53\3 tier\BLL\bin\Debug\BLL.pdb
+E:\Md. Akib Hasan\class 53\3 tier\BLL\bin\Debug\DAL.dll
+E:\Md. Akib Hasan\class 53\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Md. Akib Hasan\class 53\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Md. Akib Hasan\class 53\3 tier\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Md. Akib Hasan\class 53\3 tier\BLL\bin\Debug\DAL.pdb
+E:\Md. Akib Hasan\class 53\3 tier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Md. Akib Hasan\class 53\3 tier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Md. Akib Hasan\class 53\3 tier\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Md. Akib Hasan\class 53\3 tier\BLL\obj\Debug\BLL.dll
+E:\Md. Akib Hasan\class 53\3 tier\BLL\obj\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 53\3 tier\BLL\obj\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\bin\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\bin\Debug\BLL.pdb
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\bin\Debug\DAL.dll
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\bin\Debug\DAL.pdb
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\obj\Debug\BLL.dll
+D:\Others(D)\bitm dot net\class 53X\3 tier\BLL\obj\Debug\BLL.pdb
